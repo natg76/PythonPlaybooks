@@ -6,8 +6,6 @@ Created on Sun Jan 13 11:58:45 2019 with Spyder
 
 About: Data Cleaning in Python 1
 
-Details: Pandas data transformation functions
-
 """
 
 #%%
